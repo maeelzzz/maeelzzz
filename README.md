@@ -16,10 +16,8 @@
 
 
 
-
-
-<div align="center">
-- Youtube: [@maeel](https://youtube.com/maeel)
+#### Contacts
+- Youtube: [maeel](https://youtube.com/maeel)
 - Twitter: [@maeelzzz](https://twitter.com/maeelzzz)
-</div>
+
 
