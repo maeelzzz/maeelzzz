@@ -22,7 +22,6 @@
    Twitter: https://twitter.com/maeelzzz
  
    Youtube: https://www.youtube.com/maeel
-   
    Discord: maeel#1234
 </div>
 
