@@ -5,11 +5,12 @@ noir
 
 https://soundcloud.com/trashvibes/serfaux-crotte-cest-hallowin-ft-thenegrios
 
-<div align="center">
   **Serfaux exclusive**
+
+<div align="center">
   
-    - Twitter: https://twitter.com/maeelzzz
-    - Youtube: https://www.youtube.com/maeel
+    Twitter: https://twitter.com/maeelzzz
+    Youtube: https://www.youtube.com/maeel
 </div>
 
 <div align="center">
