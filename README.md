@@ -19,10 +19,7 @@
 
 
 <div align="center">
-   Twitter: https://twitter.com/maeelzzz
- 
-   Youtube: https://www.youtube.com/maeel
-   
-   Discord: maeel#1234
+- Youtube: [@maeel](https://youtube.com/maeel)
+- Twitter: [@maeelzzz](https://twitter.com/maeelzzz)
 </div>
 
