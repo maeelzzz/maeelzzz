@@ -1,4 +1,4 @@
-### maeelzzz
+### Prêtre maeelzzz ✝️
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-#### Contacts
+#### Contacts 📒
 - Youtube: [maeel](https://youtube.com/maeel)
 - Twitter: [@maeelzzz](https://twitter.com/maeelzzz)
 - Discord: [maeel#1234](https://discord.gg/C6uy7Vs6ty)
