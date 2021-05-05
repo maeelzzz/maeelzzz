@@ -2,8 +2,8 @@
 ##### fake friends mix
 
 <div align="center">
-      <img height="200" src="https://i.ibb.co/NZWgLct/BWVDz80n-U9j6o-R1x5-DCTspl-JEAM.gif&show_icons=true&hide_border=true">
-</div>  
+      <img height="200" src="https://z.zz.ht/5YPi9.gif">
+</div>
 
 
 
