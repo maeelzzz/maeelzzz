@@ -6,7 +6,7 @@
 #### Contacts 📒
 - Youtube: [maeel](https://youtube.com/maeel)
 - Twitter: [@maeelzzz](https://twitter.com/maeelzzz)
-- Discord: [maeel#1234](https://discord.com/users/499952031960662036)
+- Discord: [@maeel](https://discord.com/users/499952031960662036)
 - Soundcloud: [maaeeel](https://soundcloud.com/maaeeel)
 - Website: [maeel.space](https://maeel.space)
 
