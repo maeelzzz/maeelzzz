@@ -12,6 +12,9 @@
 - Website: [maeel.space](https://maeel.space)
 
 <br clear="left"/>
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=gh5fbudh02dq3o02da8inuk4j">
-  <img width="80%" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gh5fbudh02dq3o02da8inuk4j" alt="Data Card for Spotify">
-</a>
+<p align="center>
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=gh5fbudh02dq3o02da8inuk4j">
+    <img width="80%" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gh5fbudh02dq3o02da8inuk4j" alt="Data Card for Spotify">
+  </a>
+</p>
+
