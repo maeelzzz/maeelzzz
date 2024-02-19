@@ -9,6 +9,7 @@
 - Twitter: [@maeelzzz](https://twitter.com/maeelzzz)
 - Discord: [@maeel](https://discord.com/users/499952031960662036)
 - Soundcloud: [maaeeel](https://soundcloud.com/maaeeel)
+- Wakatime: [@maeelzzzz](https://wakatime.com/@maeelzzz)
 - Website: [maeel.space](https://maeel.space)
 
 <br clear="left"/>
