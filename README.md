@@ -19,3 +19,6 @@
     <img width="80%" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gh5fbudh02dq3o02da8inuk4j" alt="Data Card for Spotify">
   </a>
 </p>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/maeelzzz/maeelzzz/blob/main/k.gif?raw=true');]{x0000}$}
