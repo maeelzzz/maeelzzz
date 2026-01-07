@@ -1,16 +1,9 @@
 ### maeel 🐈
-##### computer
-
-<a href="https://discord.com/users/499952031960662036">
-  <img width="40%" float="left" align="right" src="https://lanyard-profile-readme.vercel.app/api/499952031960662036?&bg&animated=true&borderRadius=30px&idleMessage=Sousou%20no%20Frieren">
-</a>
+##### computer enthusiast
+[![wakatime](https://wakatime.com/badge/user/2f9508a1-8f7f-45cf-9d4a-09e06cb95363.svg)](https://wakatime.com/@2f9508a1-8f7f-45cf-9d4a-09e06cb95363)
 
 #### Contacts 📒
 - Website: [maeel.space](https://maeel.space)
-- Youtube: [maeel](https://youtube.com/maeel)
-- Twitter: [@maeelzzz](https://twitter.com/maeelzzz)
-- Discord: [@maeel](https://discord.com/users/499952031960662036)
-- Soundcloud: [maaeeel](https://soundcloud.com/maaeeel)
 - Wakatime: [@maeelzzz](https://wakatime.com/@maeelzzz)
 
 <br clear="left"/>
