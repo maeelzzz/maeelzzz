@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/2f9508a1-8f7f-45cf-9d4a-09e06cb95363.svg)](https://wakatime.com/@2f9508a1-8f7f-45cf-9d4a-09e06cb95363)
 
 ### Contacts 📒
-- Website: [maeel.space](https://maeel.space)
+- E-Mail: [maeelrandom@gmail.com](mailto:maeelrandom@gmail.com)
 - Wakatime: [@maeelzzz](https://wakatime.com/@maeelzzz)
 
 ### ⚙️ Tech Stack
